@@ -1,6 +1,8 @@
 # 欢迎来到我的 GitHub 主页！ 👋
 
-你好！我是 **流体石头**，很高兴你来到这里！ 😊  
+你好！我是 **流体石头**，很高兴你来到这里！
+![访客统计](https://visitor-badge.laobi.icu/badge?page_id=flowstone.profile) 😊 
+
 我是一名 Java开发者，喜欢探索新技术和开发有趣的项目。
 
 
